@@ -1,0 +1,1 @@
+Gato(nome:julian;idade:15;peso:2;raca:Siamês;cinza com preto)
